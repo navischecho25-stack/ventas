@@ -1,0 +1,6 @@
+id_factura,cliente,monto,pagado
+201,Distribuidora Cordoba,1200000,False
+202,Comercializadora del Sinu,450000,True
+203,Inversiones Caribe,2300000,False
+204,Supermercado Monteria,890000,True
+205,Calzados Bucaramanga,1150000,False

@@ -1,0 +1,3 @@
+=== REPORTE DE CARTERA PENDIENTE ===
+Facturas en mora: 3
+Total saldo en mora: $4,650,000 COP
